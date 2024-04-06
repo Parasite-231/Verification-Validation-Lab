@@ -18,7 +18,7 @@ function LengthConverter(measurement, val)
     return [result1, result2];
 }
 
-console.log(LengthConverter("feets", 3));
+// console.log(LengthConverter("feets", 3));
 module.exports = {
     LengthConverter
 }

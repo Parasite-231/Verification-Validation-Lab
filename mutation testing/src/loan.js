@@ -12,7 +12,7 @@ function calculateLoan(LoanAmount, interestRate, MonthToPay)
         return payment;
     }
 }
-console.log(calculateLoan(1000,0.1, 12));
+// console.log(calculateLoan(1000,0.1, 12));
 
 module.exports = {
     calculateLoan

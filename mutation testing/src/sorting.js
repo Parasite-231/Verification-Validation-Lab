@@ -12,7 +12,7 @@ function insertionSort(arr) {
     return arr;
 }
 
-console.log(insertionSort([2,1,4,3]))
+// console.log(insertionSort([2,1,4,3]))
 module.exports = {
     insertionSort
 }
